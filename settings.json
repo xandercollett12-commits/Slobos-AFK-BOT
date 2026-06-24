@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FrostedNyxen.aternos.me",
-    "port": 18104,
+    "ip": "FrostedNyxen.aternos.me:18104",
     "version": "1.21.1"
   },
   "position": {
